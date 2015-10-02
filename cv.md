@@ -13,9 +13,8 @@
 </div>
 
 <div class="col-md-4 contact">
-#### [oliver.s.edwards@gmail.com](mailto:oliver.s.edwards@gmail.com) {#email}
+#### [oliver.s.edwards@gmail.com](mailto:oliver.s.edwards+jobs@gmail.com) {#email}
 #### [abm.io](http://www.abm.io)
-#### 07825 395 909 {#phone .noWeb}
 </div>
 
 <div class="col-md-4 location">
@@ -110,7 +109,7 @@ happier with the incredible pace of progress.
 <div class="col-md-6 experience">
 ## Experience
 
-#### Senior Developer - Mobbu Ltd
+#### Senior Developer - [Mobbu](http://www.mobbu.com)
 
 I am responsible for delivering a range of mobile, wearable and web applications. The current focus is on PassWear, an
 innovative 2 factor authentication solution utilising a smartwatch as the second factor. I was responsible for design and
@@ -129,7 +128,7 @@ implementation to support.
 
 ##### August 2011 - June 2013
 
-#### Web Developer - New Era
+#### Web Developer - [New Era](http://www.neweraed.co.uk)
 
 New Era specialise in a primary education focused e-learning solutions. As
 the target audience are very young children it is paramount that simplicity
@@ -139,7 +138,7 @@ backed real time chat system with a JavaScript front end.
 
 ##### February 2009 - August 2011
 
-#### Web and Flash Developer - Bright AI
+#### Web and Flash Developer - [Bright AI](http://www.brightai.net/)
 
 At the time of my employment this was a young startup agency specialising
 in flash and mobile viral marketing games. My key responsibility was
@@ -147,7 +146,7 @@ developing flash games for companies such as BSkyB and Walkers.
 
 ##### August 2008 - February 2009
 
-#### Web Developer - East Sussex Fire and Rescue
+#### Web Developer - [East Sussex Fire and Rescue](http://www.esfrs.org/)
 
 A fantastic job to cut my teeth with at the start of my career, this position
 was characterised by intensive learning, primarily in the Java space, with
