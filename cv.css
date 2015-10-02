@@ -1,0 +1,21 @@
+.container-fluid {
+    margin: 0 5%;
+}
+
+h1, h2, .titleBlock {
+    background-color: darkslategray;
+    color: whitesmoke;
+    padding: 3px;
+}
+
+h5 {
+    text-align: right;
+}
+
+.contact {
+    text-align: center;
+}
+
+.location {
+    text-align: right;
+}

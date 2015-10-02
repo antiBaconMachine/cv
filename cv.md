@@ -1,16 +1,21 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"></link>
+<link rel="stylesheet" href="cv.css"></link>
+
 <div class="container-fluid">
 
 <div class="row">
 
-<div class="col-md-4 title">
+<div class="col-md-4">
+<div class="titleBlock">
 #Ollie Edwards {#title}
-####Javascript Specialist, Web Generalist {#subtitle}
+##Javascript Specialist, Web Generalist {#subtitle}
+</div>
 </div>
 
 <div class="col-md-4 contact">
-#### $email$ {#email}
+#### [oliver.s.edwards@gmail.com](mailto:oliver.s.edwards@gmail.com) {#email}
 #### [abm.io](http://www.abm.io)
-#### $phone$ {#phone .noWeb}
+#### 07825 395 909 {#phone .noWeb}
 </div>
 
 <div class="col-md-4 location">
@@ -49,16 +54,21 @@ Compared with native mobile development I find that web apps are typically much 
 which is a much more rewarding experience for developers.
 
 One of the most interesting things about being in this field over the last ten years is watching web technology escape the web.
-First javascript escaped in NodeJs, opening up the back end and systems programming environments to us. Then web apps
-where wrapped as mobile apps providing a real alternative to native stacks. Now the HTML5/CSS/ECMA stack is a viable
-implementation choice for all platforms and I couldn't be happier with the incredible pace of progress.
+NodeJs has opened up the back end and systems programming environments to Javascript. Cordova and it's ilk have provided a real
+alternative to native stacks in the mobile space. The HTML5/CSS/ECMA stack is ever more pervasive and I couldn't be
+happier with the incredible pace of progress.
 </div>
 
 </div>
 
 <div class="row">
-<div class="col-md-4 glance">
+<div class="col-md-12 glance">
 ## At a Glance
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-3 glance">
 
 ### Development Experience
 * JavaScript expert
@@ -71,7 +81,7 @@ implementation choice for all platforms and I couldn't be happier with the incre
 * Android native development
 * iOS native development (ObjC and Swift)
 </div>
-<div class="col-md-4 tools">
+<div class="col-md-3 tools">
 
 ### Favourite Tools
 * git
@@ -84,7 +94,7 @@ implementation choice for all platforms and I couldn't be happier with the incre
 * git (Yes, again)
 
 </div>
-<div class="col-md-4 modus">
+<div class="col-md-6 modus">
 
 ### Modus Operandi
 
@@ -124,12 +134,12 @@ implementation to support.
 New Era specialise in a primary education focused e-learning solutions. As
 the target audience are very young children it is paramount that simplicity
 and usability are prioritised. A key achievement in my time with the
-company was the design and implementation of an erlang
+company was the design and implementation of an Erlang
 backed real time chat system with a JavaScript front end.
 
 ##### February 2009 - August 2011
 
-Web and Flash Developer - Bright AI
+#### Web and Flash Developer - Bright AI
 
 At the time of my employment this was a young startup agency specialising
 in flash and mobile viral marketing games. My key responsibility was
@@ -143,7 +153,7 @@ A fantastic job to cut my teeth with at the start of my career, this position
 was characterised by intensive learning, primarily in the Java space, with
 plenty of mistakes along the way.
 
-#### October 2006 - August 2008
+##### October 2006 - August 2008
 
 </div>
 <div class="col-md-6 education">
@@ -169,6 +179,17 @@ year project was a sprawling point and click adventure game produced
 in Flash for which I received first class honours.
 
 ##### September 2002 - May 2005
+
+##And the rest
+
+My hobbies largely involve pizza. After much trial and error I'm happy to report I can now make a pretty mean sourdough.
+
+I play the drums almost well, I play in a couple of local bands.
+
+I ride a rusty bike everywhere, it's the best way to get around Brighton.
+
+If a film/book blurb starts "Set in a post apocalyptic world..." then it's already sold.
+
 </div>
 </div>
 

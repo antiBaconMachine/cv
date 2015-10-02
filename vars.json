@@ -1,0 +1,8 @@
+{
+  "css" : [
+    "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css",
+    "cv.css"
+  ],
+  "email" : "foo@bar.com",
+  "phone" : "xxxxxxxxx"
+}
