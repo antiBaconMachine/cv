@@ -1,10 +1,13 @@
+<div class="row">
 #Ollie Edwards {#title}
 ####Javascript Specialist, Web Generalist {#subtitle}
 
 #### <%=email%> {#email}
 #### [abm.io](http://www.abm.io)
 #### <%=phone%>
+</div>
 
+<div class="row">
 ## Profile
 
 Versatile JavaScript specialist with complimentary skills in full stack web
@@ -33,7 +36,9 @@ One of the most interesting things about being in this field over the last ten y
 First javascript escaped in NodeJs, opening up the back end and systems programming environments to us. Then web apps
 where wrapped as mobile apps providing a real alternative to native stacks. Now the HTML5/CSS/ECMA stack is a viable
 implementation choice for all platforms and I couldn't be happier with the incredible pace of progress.
+</div>
 
+<div class="row">
 ## At a Glance
 
 ### Development Experience
@@ -63,7 +68,9 @@ implementation choice for all platforms and I couldn't be happier with the incre
 * I tend to structure apps using Mediators or Observers, mainly to achieve isolation for testing.
 * I think it's more important to have really solid tests for the contract of a module then test every function within it.
 * I believe the dev team should drive and constantly reshape their own custom dev process.
+</div>
 
+<div class="row">
 ## Experience
 
 #### Senior Developer - Mobbu Ltd
@@ -132,3 +139,5 @@ year project was a sprawling point and click adventure game produced
 in Flash for which I received first class honours.
 
 ##### September 2002 - May 2005
+
+</div>
