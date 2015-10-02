@@ -1,13 +1,27 @@
+<div class="container-fluid">
+
 <div class="row">
+
+<div class="col-md-4 title">
 #Ollie Edwards {#title}
 ####Javascript Specialist, Web Generalist {#subtitle}
+</div>
 
-#### <%=email%> {#email}
+<div class="col-md-4 contact">
+#### $email$ {#email}
 #### [abm.io](http://www.abm.io)
-#### <%=phone%>
+#### $phone$ {#phone .noWeb}
+</div>
+
+<div class="col-md-4 location">
+#### Brighton, UK
+</div>
+
 </div>
 
 <div class="row">
+
+<div class="col-md-6 profile">
 ## Profile
 
 Versatile JavaScript specialist with complimentary skills in full stack web
@@ -23,7 +37,9 @@ development with Java, with a detour into mobile and wearables.
 In return for a position in an awesome development team, I can bring a multi disciplined
 skill set, an approachable demeanour and a focus on writing clean modular,
 testable and beautiful code.
+</div>
 
+<div class="col-md-6 whyWeb">
 ## Why Web?
 
 I fell in love with web development when I was ten years old and it still excites me every day.
@@ -38,7 +54,10 @@ where wrapped as mobile apps providing a real alternative to native stacks. Now 
 implementation choice for all platforms and I couldn't be happier with the incredible pace of progress.
 </div>
 
+</div>
+
 <div class="row">
+<div class="col-md-4 glance">
 ## At a Glance
 
 ### Development Experience
@@ -51,6 +70,8 @@ implementation choice for all platforms and I couldn't be happier with the incre
 * Java web
 * Android native development
 * iOS native development (ObjC and Swift)
+</div>
+<div class="col-md-4 tools">
 
 ### Favourite Tools
 * git
@@ -62,15 +83,21 @@ implementation choice for all platforms and I couldn't be happier with the incre
 * Meteor
 * git (Yes, again)
 
+</div>
+<div class="col-md-4 modus">
+
 ### Modus Operandi
 
 * I prefer to roll frameworks from small tools which do one thing well, over off the shelf monoliths.
 * I tend to structure apps using Mediators or Observers, mainly to achieve isolation for testing.
 * I think it's more important to have really solid tests for the contract of a module then test every function within it.
 * I believe the dev team should drive and constantly reshape their own custom dev process.
+
+</div>
 </div>
 
 <div class="row">
+<div class="col-md-6 experience">
 ## Experience
 
 #### Senior Developer - Mobbu Ltd
@@ -118,11 +145,14 @@ plenty of mistakes along the way.
 
 #### October 2006 - August 2008
 
+</div>
+<div class="col-md-6 education">
+
 ##Education
 
 #### BSc Natural Science: Physics - Open University
 
-    The itch I just couldn't scratch, I'm now on the final stretch in my
+The itch I just couldn't scratch, I'm now on the final stretch in my
 second degree. I chose physics because it's awesome, and I wanted
 something complementary to career without retreading the same ground.
 I've found a return to formal mathematical, scientific education has
@@ -139,5 +169,7 @@ year project was a sprawling point and click adventure game produced
 in Flash for which I received first class honours.
 
 ##### September 2002 - May 2005
+</div>
+</div>
 
 </div>
