@@ -8,7 +8,7 @@
 <div class="col-md-4">
 <div class="titleBlock">
 #Ollie Edwards {#title}
-##Javascript Specialist, Web Generalist {#subtitle}
+##JavaScript Specialist, Web Generalist {#subtitle}
 </div>
 </div>
 
@@ -53,7 +53,7 @@ Compared with native mobile development I find that web apps are typically much 
 which is a much more rewarding experience for developers.
 
 One of the most interesting things about being in this field over the last ten years is watching web technology escape the web.
-NodeJs has opened up the back end and systems programming environments to Javascript. Cordova and it's ilk have provided a real
+NodeJs has opened up the back end and systems programming environments to JavaScript. Cordova and it's ilk have provided a real
 alternative to native stacks in the mobile space. The HTML5/CSS/ECMA stack is ever more pervasive and I couldn't be
 happier with the incredible pace of progress.
 </div>
