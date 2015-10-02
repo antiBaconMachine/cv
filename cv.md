@@ -169,13 +169,11 @@ informed my work and made me more precise and efficient
 
 ##### May 2011 - June 2017 (Part time)
 
-#### BA Media Theory and practice (First class) -
+#### BA Media Theory and practice (First class)
 University of Sussex
 
-The start of my journey in professional digital media, I studied a wide range
-of practical tools, before specialising in Flash development. My resulting final
-year project was a sprawling point and click adventure game produced
-in Flash for which I received first class honours.
+I studied a wide range of practical tools in various digital mediums, before specialising in Flash development. My resulting final
+year project was a sprawling point and click adventure game produced in Flash for which I received first class honours.
 
 ##### September 2002 - May 2005
 
