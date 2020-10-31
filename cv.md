@@ -7,14 +7,14 @@
 
 <div class="col-md-4">
 <div class="titleBlock">
-#Ollie Edwards {#title}
-##JavaScript Specialist, Web Generalist {#subtitle}
+#Ollie Edwards
+## Cloud Devops / Full stack web engineer
 </div>
 </div>
 
 <div class="col-md-4 contact">
 #### [oliver.s.edwards@gmail.com](mailto:oliver.s.edwards+jobs@gmail.com) {#email}
-#### [abm.io](http://www.abm.io)
+#### [antibacon.dev](http://www.antibacon.dev)
 </div>
 
 <div class="col-md-4 location">
@@ -26,164 +26,123 @@
 <div class="row">
 
 <div class="col-md-6 profile">
-## Profile
+## At a glance
 
-Versatile JavaScript specialist with complimentary skills in full stack web
-development.
-
-9 years professional experience in a multitude of web and mobile technologies.
-
-I'm looking for a full stack development role where I can focus on delivering great HTML5 apps running on a solid back end.
-
-My background ranges from pure front end HTML5 apps to NodeJs tools to back end web
-development with Java, with a detour into mobile and wearables.
-
-In return for a position in an awesome development team, I can bring a multi disciplined
-skill set, an approachable demeanour and a focus on writing clean modular,
-testable and beautiful code.
+Versatile engineer with 14 years professional experience in API design and operation, cloud devops, team leadership / line management and general full stack web development.
 </div>
 
-<div class="col-md-6 whyWeb">
-## Why Web?
+<div class="col-md-3 skills">
 
-I fell in love with web development when I was ten years old and it still excites me every day.
-
-I enjoy the open experience of developing a web app where there are a multitude of ways to solve every problem.
-Compared with native mobile development I find that web apps are typically much more able to carve out their own identity
-which is a much more rewarding experience for developers.
-
-One of the most interesting things about being in this field over the last ten years is watching web technology escape the web.
-NodeJs has opened up the back end and systems programming environments to JavaScript. Cordova and it's ilk have provided a real
-alternative to native stacks in the mobile space. The HTML5/CSS/ECMA stack is ever more pervasive and I couldn't be
-happier with the incredible pace of progress.
-</div>
-
-</div>
-
-<div class="row">
-<div class="col-md-12 glance">
-## At a Glance
-</div>
-</div>
-
-<div class="row">
-<div class="col-md-3 glance">
-
-### Development Experience
-* JavaScript expert
+### Technical Skills
+* Kubernetes
+* nodejs
+* Restful web services
+* Front end Javascript
+* Docker
+* Postgres
+* Redis
+* Git
+* Shell
+* Cloud platforms (especially GCP)
+* Java
 * HTML5
 * CSS3
-* NodeJs
 * Cordova mobile apps
-* Restful web services
-* Java web
 * Android native development
-* iOS native development (ObjC and Swift)
-</div>
-<div class="col-md-3 tools">
-
-### Favourite Tools
-* git
-* Jasmine.js
-* gulp
-* Jenkins
-* Idea
-* Linux Mint
-* Meteor
-* git (Yes, again)
-
-</div>
-<div class="col-md-6 modus">
-
-### Modus Operandi
-
-* I prefer to roll frameworks from small tools which do one thing well, over off the shelf monoliths.
-* I tend to structure apps using Mediators or Observers, mainly to achieve isolation for testing.
-* I think it's more important to have really solid tests for the contract of a module then test every function within it.
-* I believe the dev team should drive and constantly reshape their own custom dev process.
-
-</div>
+* iOS native development
 </div>
 
-<div class="row">
+<div class="col-md-3 skills">
+
+### Other Skills
+* Team leadership
+* Line Management
+* Direct customer support
+* Developer mentoring
+* RFCs and technical documentation
+* Estimation
+* Technical presentations
+* Interviews and hiring
+</div>
+
 <div class="col-md-6 experience">
 ## Experience
 
-#### Senior Developer - [Mobbu](http://www.mobbu.com)
 
-I am responsible for delivering a range of mobile, wearable and web applications. The current focus is on PassWear, an
-innovative 2 factor authentication solution utilising a smartwatch as the second factor. I was responsible for design and
-implementation of the Android Wear and Tizen web implementations of PassWear and was also heavily involved in the iOS and Android companion apps.
-The team is also heavily invested in Cordova based apps which we use to deliver FieldOps, a realtime team communication app.
+#### [Brandwatch](https://www.brandwatch.com)
+##### Principal Engineer API products, November 2018 - Present
+* Designed a customer facing workload scheduling system build on top of the Kubernetes API for ingesting private data into the Brandwatch platform
+* Implemented custom CI/CD pipeline for front end visualization widgets using Google Cloud Functions
+* Developped patterns for safe developer access to production databases using Kubernetes Jop api
+* Designed a database aggregation system using Kubernetes CronJobs to pre aggregate metrics into postgres tables in order to provide increased front end performance for a metrics reporting product
+* Mentored fellow developers, assisting with career development and general goal setting
+* Implemented RFC led development process as a mechanism to support collaborative cross team conversations and a culture of transparency accross the department
+* Regular presentations to the engineering department on internal technical concepts or interesting related fields
 
-##### July 2013 - present
+##### Lead Engineer Vizia, March 2017 - Nov 2018
+* Delivered a complete rewrite of the Vizia admin web application under budget. Nodejs backend, React frontend
+* Line managed a team of six developers of varrying skill levels, interviewed and hired several team members
+* Designed a schema based front end user input forms system to replace all the many mismatched framework specific html forms in multiple products throughout the organisation with a platform agnostic standardised form
+* Collaboarated with other teams to design and deliver a custom single sign on solution for use accross the Brandwatch product suite
+* Provided Customer facing technical support as neccessary
 
-#### Senior Web Developer - Codingcraft
+##### Senior Engineer February 2016 - March 2017
+* Implemented explicit image filtering solution for our visualization platform
+* Worked on streaming data based rewrite of all visualization widgets in the platform to improve real time performance
+* Adopted microservice based architecture and migrated services from data center hardware to a cloud based platform
 
-I was a senior member of a small contracting team specialising in Java web tech. I was responsible for delivering solutions
-across the full web stack directly to clients with a focus on speed of delivery. Clients included Random House,
-local government bodies and universities. As a senior member of a small company my role was incredibly varied and involved
-a lot of client facing work, guiding customers all the way through the development process from quotation to specification to
-implementation to support.
+#### Mobbu
 
-##### August 2011 - June 2013
+##### Senior Developer, July 2013 - Dec 2015
 
-#### Web Developer - [New Era](http://www.neweraed.co.uk)
+* Developed implementations of PassWear, an application for smartwatches, for the Pebble, Android Wear and Tizen platforms.
+* Ported legacy mobile app MFO to modern mobile platforms using Apache Cordova
+* Designed android SDK allowing external developers to interface with our smartwatch platform
+* Developed features for javascript single page applications running on extremely constrained hardware
 
-New Era specialise in a primary education focused e-learning solutions. As
-the target audience are very young children it is paramount that simplicity
-and usability are prioritised. A key achievement in my time with the
-company was the design and implementation of an Erlang
-backed real time chat system with a JavaScript front end.
+#### Codingcraft
+##### Senior Web Developer, August 2011 - June 2013
 
-##### February 2009 - August 2011
+* Provided customer facing support for a large legacy Java CMS application
+* Designed and implemented bespoke features for clients based on their specifications
+* Generated quotes and estimates based on customer requirements
 
-#### Web and Flash Developer - [Bright AI](http://www.brightai.net/)
+#### [DB Education](http://www.neweraed.co.uk)
+###### Web Developer, February 2009 - August 2011
 
-At the time of my employment this was a young startup agency specialising
-in flash and mobile viral marketing games. My key responsibility was
-developing flash games for companies such as BSkyB and Walkers.
+* Desinged and implemented a real time chat interface to our e learning platform using erlang based backend ejabberd and a custom javascript frontend
+* Helped port legacy Java backend to the more modern Stripes framework
+* Implemented high res front end designs using html, css and javascript
 
-##### August 2008 - February 2009
+#### [Bright AI](https://redknightapps.com/)
+##### Web and Flash Developer, August 2008 - February 2009
 
-#### Web Developer - [East Sussex Fire and Rescue](http://www.esfrs.org/)
+* Implemented flash games for customers such as BSkyB and Walkers
+* Designed apis for an in house mobile games platform
+* Support and bugfixes for J2ME based mobile games
 
-A fantastic job to cut my teeth with at the start of my career, this position
-was characterised by intensive learning, primarily in the Java space, with
-plenty of mistakes along the way.
+#### [East Sussex Fire and Rescue](http://www.esfrs.org/)
+##### Web Developer, October 2006 - August 2008
 
-##### October 2006 - August 2008
+* Implemented collaborative portal for cooperation between nine south eastern fire services using vanilla Java servlets and jsp based front end
+* Oversaw complete rewrite of intranet and public facing sites
 
 </div>
 <div class="col-md-6 education">
 
 ##Education
 
-#### BSc Natural Science: Physics - Open University
+#### Open University
+##### BSc Natural Science: Physics, May 2011 - Present (Part time, ad hoc)
 
-The itch I just couldn't scratch, I'm now on the final stretch in my
-second degree. I chose physics because it's awesome, and I wanted
-something complementary to career without retreading the same ground.
-I've found a return to formal mathematical, scientific education has
-informed my work and made me more precise and efficient
-
-##### May 2011 - June 2017 (Part time)
-
-#### BA Media Theory and practice (First class)
-University of Sussex
-
-I studied a wide range of practical tools in various digital mediums, before specialising in Flash development. My resulting final
-year project was a sprawling point and click adventure game produced in Flash for which I received first class honours.
-
-##### September 2002 - May 2005
+#### University of Sussex
+##### BA Media Theory and practice (First Class Honours), September 2002 - May 2005
 
 ##And the rest
 
-My hobbies largely involve pizza. After much trial and error I'm happy to report I can now make a pretty mean sourdough.
+My hobbies largely involve pizza. After much trial and error I'm happy to report I can now make a pretty mean sourdough. 
 
-I play the drums almost well, I play in a couple of local bands.
-
-I ride a rusty bike everywhere, it's the best way to get around Brighton.
+I'm a keen cyclist and drummer and an enthusiastic if not polished carpenter.
 
 If a film/book blurb starts "Set in a post apocalyptic world..." then it's already sold.
 
